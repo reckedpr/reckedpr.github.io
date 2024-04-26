@@ -1,0 +1,26 @@
+@font-face {
+    font-family: SFP-sb;
+    src: url(font/SF-Pro-Display-Semibold.otf);
+}
+
+@font-face {
+    font-family: SFM-sbi;
+    src: url(font/SFMono-SemiboldItalic.otf);
+}
+
+.rprTitle{
+    padding-top: 32px;
+    text-align: center;
+    font-size: 58px;
+    font-family: SFP-sb;
+    line-height: 34px;
+}
+
+.bottom {
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    z-index:-9999;
+  }    
