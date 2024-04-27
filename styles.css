@@ -11,7 +11,8 @@
 .rprTitle{
     padding-top: 32px;
     text-align: center;
-    font-size: 58px;
+    font-size: 72px;
+    letter-spacing: -2px;
     font-family: SFP-sb;
     line-height: 34px;
 }
